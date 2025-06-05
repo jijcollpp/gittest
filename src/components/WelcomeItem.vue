@@ -1,6 +1,6 @@
 <template>
   <div class="item">
-    <i>work
+    <i>work2
       <slot name="icon"></slot>
     </i>
     <div class="details">
